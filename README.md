@@ -12,4 +12,4 @@ How?
 Disclaimer
 ----------------------------
 It's experimental script and created for my needs. It may or may not work for other users. 
-Feel free to fork it and modify it for your needs.
+Feel free to fork it and modify it to your needs.
