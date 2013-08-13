@@ -6,7 +6,7 @@ How?
 ----------------------------
 1. Just run `ruby backup.rb USERNAME PASSWORD`
 2. You've get n number of `parsed_articles_n.txt` by 100 articles.
-3. You've get `parsed_articles.txt` with your images list for wget or something simmiliar
+3. You've get `parsed_articles.txt` with your images list for wget or something similiar
 
 
 Disclaimer
